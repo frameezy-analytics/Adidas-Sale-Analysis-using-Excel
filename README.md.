@@ -1,0 +1,50 @@
+# Adidas Sales Analysis (Excel)
+
+## Project Overview
+This project analyzes Adidas sales data using Microsoft Excel to uncover insights into sales performance, product trends, regional distribution, and profitability.
+
+The goal is to transform raw sales data into meaningful business insights using Excel dashboards and visual analytics.
+
+---
+
+## Objectives
+- Analyze overall sales performance
+- Identify top-performing products
+- Evaluate regional sales distribution
+- Understand profit and revenue trends
+- Study sales patterns across retailers and time periods
+
+---
+
+## Dataset Features
+- Retailer
+- Invoice Date
+- Region
+- State
+- City
+- Product
+- Price per Unit
+- Units Sold
+- Total Sales
+- Operating Profit
+- Operating Margin
+- Sales Method
+
+---
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Data Cleaning
+- Dashboard Design
+
+---
+
+## Key Insights
+- The five leading retailers in descending order by total sales volume are: West Gear, Foot Locker, Sports Direct, Kohl's, Amazon, Walmart.
+- There is a noticeable variation in revenue generation across the retailers. West Gear recorded the highest revenue, totaling $242,944,333, while Walmart generated the lowest revenue at $74,558,410.
+- Foot Locker achieved the strongest operating profit margin among all retailers. This strong performance may be linked to factors such as strategic market positioning, presence across multiple regions, higher pricing strategies, and increased sales volume.
+- Sales performance also differs considerably by region. Retailer 1128299 generated the highest sales in the West with $184,401,443. In the Northeast, retailer 1185732 recorded the top sales figure of $183,926,641. Retailer 1189833 achieved the highest sales in another West category with $26,305,983, while retailer 1197831 led the South with sales totaling $105,240,571.
+- The preferred sales methods vary depending on the retailer. Amazon generated its highest sales through online channels, while Foot Locker and West Gear performed best through in-store sales. Kohl’s, Sports Direct, and Walmart recorded their strongest sales through outlet channels. Overall, outlet sales appear to be the most widely used method, as several retailers achieved their highest sales figures through this channel.
+
